@@ -3,7 +3,7 @@
 
 # 使用例
 
-[![](http://img.youtube.com/vi/QT2UY8TPNiE/0.jpg)](http://www.youtube.com/watch?v=QT2UY8TPNiE "")
+![sample](img/sample.png)
 
 # セットアップ
 mac OSX Catalina上にて動作確認しています。
