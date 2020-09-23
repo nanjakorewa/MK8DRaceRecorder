@@ -7,6 +7,7 @@ temp_lap_.png
 temp_rank.png
 temp_raw.png
 ..temp*
+.temp_raw*.png
 mk8d.log
 
 # system

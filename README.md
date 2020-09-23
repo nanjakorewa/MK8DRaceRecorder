@@ -2,8 +2,9 @@
 配信時にコイン枚数・ラップ・順位を記録します。
 
 # 使用例
-
 ![sample](img/sample.png)
+
+https://youtu.be/QT2UY8TPNiE?t=613
 
 # セットアップ
 mac OSX Catalina上にて動作確認しています。
